@@ -16,12 +16,13 @@ Work through all these exercises. You edit this file with your answers for these
 	* You can insert several separate amounts of money into the machine, just like you might insert multiple coins or notes into a real machine. Try inserting the exact amount required for a ticket. As this is a simple machine, a ticket will not be issued automatically, so once you have inserted enough money, call the `printTicket` method. A facsimile ticket should be printed in the BlueJ terminal window.
 
 ### Exercise 2.2
-* What value is returned if you check the machine’s balance after it has printed a ticket?
+* What value is returned if you check the machine’s balance after it has printed a ticket?'
+0
 
 ### Exercise 2.3
 * Experiment with inserting different amounts of money before printing tickets.
 	* Do you notice anything strange about the machine’s behavior?
-	* What happens if you insert too much money into the machine – do you receive any refund?
+	* What happens if you insert too much money into the machine – do you receive any refund? no
 	* What happens if you do not insert enough and then try to print a ticket?
 
 ### Exercise 2.4
@@ -30,7 +31,7 @@ Work through all these exercises. You edit this file with your answers for these
 ### Exercise 2.5
 * Create another ticket machine for tickets of a different price.
 	* Buy a ticket from that machine.
-	* Does the printed ticket look different?
+	* Does the printed ticket look different? no
 
 ### Exercise 2.6
 * Write out what you think the outer wrappers of the `Student` and `LabClass` classes might look like – do not worry about the inner part.
@@ -40,7 +41,7 @@ Does it matter whether we write<br>
 `public class TicketMachine`<br>
 or<br>
 `class public TicketMachine`<br>
-in the outer wrapper of a class?
+in the outer wrapper of a class? yes
 
 * Edit the source of the `TicketMachine` class to make the change and then close the editor window.
 	* Do you notice a change in the class diagram?
